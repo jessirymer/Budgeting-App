@@ -1,6 +1,7 @@
 import React from "react"
 import ReactDOM from "react-dom"
+import AppRouther from "./routers/AppRouter"
 import "normalize.css/normalize.css"
 import "./styles/styles.scss"
 
-ReactDOM.render(<p>This is my React boilerplate</p>, document.getElementById("app"))
+ReactDOM.render(<AppRouther />, document.getElementById("app"))
