@@ -92,3 +92,5 @@ public/bundle.js*
 src/playground/
 
 yarn.lock
+
+*.DS_Store
