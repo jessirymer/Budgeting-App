@@ -94,3 +94,5 @@ src/playground/
 yarn.lock
 
 *.DS_Store
+
+public/styles.css*
