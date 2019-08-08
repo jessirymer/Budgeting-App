@@ -94,3 +94,5 @@ src/playground/
 *.DS_Store
 
 public/styles.css*
+
+public/dist/
